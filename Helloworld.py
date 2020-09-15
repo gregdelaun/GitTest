@@ -1,2 +1,2 @@
 
-print("Hello Daniel What's up today?")
+print("Hello Daniel! What's up today?")
