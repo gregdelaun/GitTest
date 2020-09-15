@@ -1,2 +1,2 @@
 
-print("Hello Piximate!")
+print("Hello amazing Piximate! team")
